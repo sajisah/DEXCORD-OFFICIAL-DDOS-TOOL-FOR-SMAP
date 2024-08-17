@@ -24,4 +24,4 @@ This version of the script provides clarity on its intended use for testing fire
 
   Usage: python samp-ddos-exploit.py <IP> <PORT>
 
-example usage: python samp-exploit.py 176.63.87.95 7777
+example usage: python samp-ddos-exploit.py 198.68.1.1 7777
